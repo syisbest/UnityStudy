@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: e4b8f61cf7480744faa54d4574dcad09
+timeCreated: 1583139123
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: back1
+    100002: back2
+    100004: back3
+    100006: back4
+    100008: baseHead
+    100010: clusterAbs
+    100012: clusterChest
+    100014: clusterHip
+    100016: clusterNeck
+    100018: curve1
+    100020: //RootNode
+    100022: female_surface
+    100024: group1
+    100026: group2
+    100028: group3
+    100030: group4
+    100032: hip
+    100034: joint1
+    100036: joint1 1
+    100038: joint10
+    100040: joint10 1
+    100042: joint11
+    100044: joint11 1
+    100046: joint12
+    100048: joint12 1
+    100050: joint13
+    100052: joint13 1
+    100054: joint14
+    100056: joint14 1
+    100058: joint15
+    100060: joint15 1
+    100062: joint16
+    100064: joint16 1
+    100066: joint17
+    100068: joint17 1
+    100070: joint18
+    100072: joint18 1
+    100074: joint19
+    100076: joint19 1
+    100078: joint2
+    100080: joint2 1
+    100082: joint20
+    100084: joint20 1
+    100086: joint3
+    100088: joint3 1
+    100090: joint4
+    100092: joint4 1
+    100094: joint5
+    100096: joint5 1
+    100098: joint6
+    100100: joint6 1
+    100102: joint7
+    100104: joint7 1
+    100106: joint8
+    100108: joint8 1
+    100110: joint9
+    100112: joint9 1
+    100114: leftAnkle
+    100116: leftClavicle
+    100118: leftElbow
+    100120: leftFoot
+    100122: leftForearm
+    100124: leftHip
+    100126: leftKnee
+    100128: leftShoulder
+    100130: leftToe
+    100132: leftWrist
+    100134: neck
+    100136: rightAnkle
+    100138: rightClavicle
+    100140: rightElbow
+    100142: rightFoot
+    100144: rightForearm
+    100146: rightHip
+    100148: rightKnee
+    100150: rightShoulder
+    100152: rightToe
+    100154: rightWrist
+    100156: root
+    100158: rootGRP
+    100160: skull
+    400000: back1
+    400002: back2
+    400004: back3
+    400006: back4
+    400008: baseHead
+    400010: clusterAbs
+    400012: clusterChest
+    400014: clusterHip
+    400016: clusterNeck
+    400018: curve1
+    400020: //RootNode
+    400022: female_surface
+    400024: group1
+    400026: group2
+    400028: group3
+    400030: group4
+    400032: hip
+    400034: joint1
+    400036: joint1 1
+    400038: joint10
+    400040: joint10 1
+    400042: joint11
+    400044: joint11 1
+    400046: joint12
+    400048: joint12 1
+    400050: joint13
+    400052: joint13 1
+    400054: joint14
+    400056: joint14 1
+    400058: joint15
+    400060: joint15 1
+    400062: joint16
+    400064: joint16 1
+    400066: joint17
+    400068: joint17 1
+    400070: joint18
+    400072: joint18 1
+    400074: joint19
+    400076: joint19 1
+    400078: joint2
+    400080: joint2 1
+    400082: joint20
+    400084: joint20 1
+    400086: joint3
+    400088: joint3 1
+    400090: joint4
+    400092: joint4 1
+    400094: joint5
+    400096: joint5 1
+    400098: joint6
+    400100: joint6 1
+    400102: joint7
+    400104: joint7 1
+    400106: joint8
+    400108: joint8 1
+    400110: joint9
+    400112: joint9 1
+    400114: leftAnkle
+    400116: leftClavicle
+    400118: leftElbow
+    400120: leftFoot
+    400122: leftForearm
+    400124: leftHip
+    400126: leftKnee
+    400128: leftShoulder
+    400130: leftToe
+    400132: leftWrist
+    400134: neck
+    400136: rightAnkle
+    400138: rightClavicle
+    400140: rightElbow
+    400142: rightFoot
+    400144: rightForearm
+    400146: rightHip
+    400148: rightKnee
+    400150: rightShoulder
+    400152: rightToe
+    400154: rightWrist
+    400156: root
+    400158: rootGRP
+    400160: skull
+    2300000: female_surface
+    3300000: female_surface
+    4300000: female_surface
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 3
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
