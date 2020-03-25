@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class BoltMove : MonoBehaviour
+public class Move : MonoBehaviour
 {
     public float speed = 10.0f;
     private Rigidbody rb;

@@ -20,3 +20,4 @@
 
 ### Test0316 scene1四个女孩，1固定跑，2在BlendTree里面控制左右，3在BlendTree里面控制蹲走，走和跑的混合，4在BlendTree里面控制左右和快慢，scene2使女孩一直看着方块
 
+## Test0323 飞船游戏，wasd控制移动，f射击

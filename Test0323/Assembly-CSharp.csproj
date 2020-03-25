@@ -45,9 +45,12 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\scripts\BoltMove.cs" />
-     <Compile Include="Assets\scripts\DestoryBolt.cs" />
+     <Compile Include="Assets\scripts\AsteroidCreate.cs" />
+     <Compile Include="Assets\scripts\DestoryByBoundary.cs" />
+     <Compile Include="Assets\scripts\DestoryByCollision.cs" />
+     <Compile Include="Assets\scripts\Move.cs" />
      <Compile Include="Assets\scripts\PlayControl.cs" />
+     <Compile Include="Assets\scripts\RandomRotate.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>E:/unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

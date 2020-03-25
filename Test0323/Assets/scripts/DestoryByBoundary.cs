@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class DestoryBolt : MonoBehaviour {
+public class DestoryByBoundary : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
