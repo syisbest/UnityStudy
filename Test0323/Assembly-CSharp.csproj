@@ -51,11 +51,17 @@
      <Compile Include="Assets\scripts\Move.cs" />
      <Compile Include="Assets\scripts\PlayControl.cs" />
      <Compile Include="Assets\scripts\RandomRotate.cs" />
+ <Reference Include="UnityEngine.Advertisements">
+ <HintPath>E:/unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>E:/unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Networking">
  <HintPath>E:/unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>E:/unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="Mono.Cecil">
  <HintPath>E:/unity/Editor/Data/Managed/Mono.Cecil.dll</HintPath>

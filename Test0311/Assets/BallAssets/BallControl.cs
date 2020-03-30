@@ -1,16 +1,19 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class BallControl : MonoBehaviour {
+public class BallControl : MonoBehaviour
+{
 
     Animator am;
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start()
+    {
         am = GetComponent<Animator>();
-	}
-	
-	// Update is called once per frame
-	void Update () {
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
         if (Input.GetMouseButtonDown(0))
         {
             am.SetBool("toScale", true);
@@ -21,5 +24,5 @@ public class BallControl : MonoBehaviour {
             am.SetBool("toScale", false);
             am.SetBool("toPosition", true);
         }
-	}
+    }
 }
