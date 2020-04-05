@@ -20,7 +20,7 @@
 
 ### Test0316 scene1四个女孩，1固定跑，2在BlendTree里面控制左右，3在BlendTree里面控制蹲走，走和跑的混合，4在BlendTree里面控制左右和快慢，scene2使女孩一直看着方块，scene3使女孩手脚跟随物体移动
 
-### Test0323 飞船游戏，wasd控制移动，f射击
+### Test0323 飞船游戏，wasd控制移动，f射击，R重新开始游戏
 
 ### Test0330 粒子系统 scene1制作了一个火焰，scene2gui画布，按按钮后文本显示，勾选文本变色，拖动条改变大小，Shuriken一个具体的场景演示
 
