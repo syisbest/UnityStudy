@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class followObj : MonoBehaviour {
+public class FollowObj : MonoBehaviour {
 
     private Animator am;
     public Transform CapsuleTransform;
