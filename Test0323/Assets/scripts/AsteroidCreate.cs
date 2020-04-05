@@ -11,15 +11,19 @@ public class AsteroidCreate : MonoBehaviour
     public float waveTime = 2.0f;
 
     public float startTime = 1.0f;
+
+    private GameControl gameControl;
     // Use this for initialization
-	void Start ()
+    void Start ()
     {
         StartCoroutine(SpawnWaves());
+        GameObject myGameControl = GameObject.Find("GameControl");
+        gameControl = myGameControl.GetComponent<GameControl>();
     }
 	
 	// Update is called once per frame
 	void Update () {
-	
+	    
 	}
 
     IEnumerator SpawnWaves()
@@ -30,6 +34,8 @@ public class AsteroidCreate : MonoBehaviour
         {
              v = new Vector3(Random.Range(-6.0f, 6.0f), 0, 14.5f);
              Instantiate(asteroid, v, asteroid.transform.rotation);
+             if(gameControl.gameover)
+                 break;
              yield return new WaitForSeconds(waveTime);
         }
        

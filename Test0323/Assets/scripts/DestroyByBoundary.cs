@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class DestoryByBoundary : MonoBehaviour {
+public class DestroyByBoundary : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
