@@ -2,6 +2,8 @@
 
 ## 学习unity
 
+### MyMacanimToStudents 老师给的场景，在_Scenes里面完成仿写Animator Controller，一个简单的人物在场景中的移动
+
 ### Test0217 创建简单一个正方体和球，手动移动位置和改变大小，控制台输出helloworld
 
 ### Test0219 预制体的应用，按a,s或d生成预制体
@@ -25,3 +27,5 @@
 ### Test0330 粒子系统 scene1制作了一个火焰，scene2gui画布，按按钮后文本显示，勾选文本变色，拖动条改变大小，Shuriken一个具体的场景演示
 
 ### Test0405 音效系统，scene1播放和暂停音乐，scene2混音器
+
+### Test0408 角色控制，scene1 wasd控制小球移动，scene2增加跳跃和碰撞后的处理
