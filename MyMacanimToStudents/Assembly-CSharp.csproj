@@ -66,6 +66,9 @@
      <Compile Include="Assets\Scripts\Spawner.cs" />
      <Compile Include="Assets\Scripts\TargetMatching.cs" />
      <Compile Include="Assets\Scripts\ThirdPersonCamera.cs" />
+     <Compile Include="Assets\_Scripts\CameraMove.cs" />
+     <Compile Include="Assets\_Scripts\CrowdMovement.cs" />
+     <Compile Include="Assets\_Scripts\PlayerGenerator.cs" />
      <Compile Include="Assets\_Scripts\PlayerMove.cs" />
      <None Include="Assets\History.txt" />
  <Reference Include="UnityEngine.UI">

@@ -32,6 +32,6 @@ public class PlayerMove : MonoBehaviour
         h = Input.GetAxis("Horizontal");
         v = Input.GetAxis("Vertical");
         animator.SetFloat("Speed", v * v + h * h);
-        animator.SetFloat("Dirction",h,1,Time.deltaTime);
+        animator.SetFloat("Dirction",h,0.25f,Time.deltaTime);
     }
 }

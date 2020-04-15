@@ -2,7 +2,7 @@
 
 ## 学习unity
 
-### MyMacanimToStudents 老师给的场景，在_Scenes里面完成仿写Animator Controller，一个简单的人物在场景中的移动
+### MyMacanimToStudents 老师给的场景，在_Scenes里面完成仿写Animator Controller，一个简单的人物在场景中的移动	MyCrowd生成十个Teddy或者Dude让他们随机运动
 
 ### Test0217 创建简单一个正方体和球，手动移动位置和改变大小，控制台输出helloworld
 
